@@ -47,6 +47,7 @@ dependencies = [
     "langsmith>=0.9.7",
     "lightgbm>=4.6.0",
     "llama-index>=0.14.23",
+    "load-dotenv>=0.1.0",
     "loguru>=0.7.3",
     "lxml>=6.1.1",
     "matplotlib>=3.11.0",
